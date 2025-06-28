@@ -1,3 +1,5 @@
+面向学术分析与学者画像的知识图谱数据集ScholarKG，请访问https://github.com/svenzhi/ScholarKG
+
 # 📚 ScholarInfoNER 中文学者信息识别数据集
 
 ## 📝 数据集简介
