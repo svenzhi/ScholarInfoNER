@@ -26,7 +26,7 @@
 - `ORG`：单位/组织  
 - `EDU`：教育背景  
 - `RESEARCH`：研究方向
-具体类别信息请查看`ScholarInfoNER.json`。
+- 具体类别信息请查看`ScholarInfoNER.json`
 
 ### ✅ 标注示例：
 
@@ -47,7 +47,8 @@
 
 您可以自由复制、修改、分发和用于商业用途，但 **必须署名原始作者和来源**：
 
-> 数据集作者：XXX 
+> 数据集作者：XXX
+> 
 > 来源链接：https://github.com/svenzhi/ScholarInfoNER  
 
 ### 📌 使用者注意事项
