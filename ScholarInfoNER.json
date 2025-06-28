@@ -1,0 +1,23 @@
+{
+  "char_count": 125588,
+  "entity_occurrence_count": 11207,
+  "type_count": 16,
+  "type_entity_count": {
+    "person": 1329,
+    "date": 2251,
+    "university": 749,
+    "organization": 1381,
+    "degree": 338,
+    "title": 1404,
+    "award": 854,
+    "project": 667,
+    "journal": 457,
+    "education": 475,
+    "research_field": 571,
+    "publication": 113,
+    "location": 218,
+    "conference": 338,
+    "homepage": 19,
+    "course": 43
+  }
+}
