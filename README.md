@@ -33,7 +33,7 @@
 ### ✅ 标注示例：
 
 ```
-李璞	B-NAME
+张三	B-NAME
 ，	O
 河南	B-LOC
 开封	I-LOC
